@@ -132,8 +132,6 @@ poetry run livi-audio-encoder inference \
   --out-path data/processed/text_embeddings/audio.npz  
 ```
 
-**Training:**
-
 ```bash
 poetry run livi-audio-encoder launch-training
 ```
